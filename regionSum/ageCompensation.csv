@@ -1,0 +1,6 @@
+ageGroup,minAge,compensationPercentage
+senior,65,1
+adult,21,0.6
+youngAdult,18,0.8
+child,5,1
+baby,0,2

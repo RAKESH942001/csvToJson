@@ -1,0 +1,14 @@
+patientId,patientName,gender,days,wardType
+1,Alexa,F,5,ICU
+2,Jegan,M,1,ICU
+3,Rithik,M,3,CCU
+4,Roshini,F,10,Normal
+2,Jegan,M,6,Normal
+5,Aisha,F,2,CCU
+1,Alexa,F,2,Normal
+3,Rithik,M,1,Normal
+5,Aisha,F,1,ICU
+5,Aisha,F,3,Normal
+6,Dhana,F,2,Normal
+7,Dinesh,M,4,ICU
+8,Srinika,F,1,Normal
